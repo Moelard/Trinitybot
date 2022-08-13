@@ -1,0 +1,28 @@
+{
+    "bot": {
+        "token":  "MTAwNzk1NDg4NzEwNTA2OTEyNw.GnvCst.0T_m8B44C1xyLfHFKqhzUvA-3t6EFr8ykBvnU8",
+        "databaseURL": "",
+        "prefix": "!",
+        "footer": "© TrinityRP",
+        "servernaam": "TrinityRP",
+        "ticketName": "ticket-"
+    },
+
+    "channels": {
+        "logs": "1006211245357142180"
+    },
+
+    "colors": {
+        "error": "#ff0000",
+        "succes": "#00ff00",
+        "normal": "#ffa500"
+    },
+
+    "rollen": {
+        "supportRole": "1006211244421808175"
+    },
+
+    "categorie": {
+        "support": "Service & Hulp"
+    }
+}
